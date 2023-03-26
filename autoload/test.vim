@@ -1,6 +1,6 @@
 " chatgpt.vim
 function! SendChatGPTMessage(prompt)
-    let apiKey = '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'
+    let apiKey = '< your api key >'
 
     "let apiUrl = 'https://api.openai.com/v1/engines/gpt-3.5-turbo-0301/completions'
     let apiUrl = 'https://api.openai.com/v1/completions'
